@@ -1,6 +1,4 @@
 
-Voici une description/bio de votre projet pour GitHub :
-
 Générateur de mots de passe en Python avec interface graphique Tkinter
 Ce projet est un générateur de mots de passe développé en Python, utilisant la bibliothèque Tkinter pour créer une interface graphique conviviale. L'objectif principal de cet outil est de permettre aux utilisateurs de générer des mots de passe sécurisés en spécifiant la longueur souhaitée et le niveau de complexité.
 
