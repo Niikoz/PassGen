@@ -1,3 +1,3 @@
 @echo off
-python C:\Users\nm\Documents\PassGen\main.py
+python Votre_Chemin_d'Acces_main.py
 pause
